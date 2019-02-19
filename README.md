@@ -22,8 +22,9 @@ $ git clone https://github.com/dsciitpatna/WhatsApp-Direct-Message.git
 ```
 Basic scripts are written in python, which in turn generates 
 
-* All the pull requests must be made only in Dev Branch
+* All the pull requests must be made only in Dev Branch.
 * You should join the gitter and slack channel to stay connected with mentors and other contributors.
+* Raise an issue before making pull requests.
 
 ### Languages and services used
 * HTML
