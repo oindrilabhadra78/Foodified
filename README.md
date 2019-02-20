@@ -10,10 +10,10 @@
 
 ## Features
 * Choose what to eat from suggested list
-* Analyse how much calorie you have taken and utalised in a day.
+* Analyse how much calorie you have taken and utilised in a day.
 * Health tips according to your health condition.
 * Share your diet condition among your friends.
-* Its free and open source app.
+* It's free and open source app.
 
 ## Join us at
 ```
