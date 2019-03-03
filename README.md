@@ -6,14 +6,14 @@
 
 
 
-##### Ever came across a problem in life when you wonder "This could have been a lot easier and convenient if you had an app that would suggest what to eat, taking care of your diet". Worry not, we have came up with an app to suugest what to eat by analysing what you have eaten still then and how much workout you have done.
+##### Ever came across a problem in life when you wondered "This could have been a lot easier and convenient if you had an app that would suggest what to eat, taking care of your diet"? Worry not, we have come up with an app to suggest what to eat by analysing what you have eaten until then and how much workout you have done.
 
 ## Features
-* Choose what to eat from suggested list
-* Analyse how much calorie you have taken and utilised in a day.
-* Health tips according to your health condition.
-* Share your diet condition among your friends.
-* It's free and open source app.
+* Choose what to eat from a suggested list
+* Analyse how much calories you have taken and utilised in a day
+* Health tips according to your health condition
+* Share your diet condition with your friends
+* It's free and open source app
 
 ## Join us at
 ```
@@ -21,7 +21,7 @@
  Slack: https://bit.ly/2S1adeD
 ```
 ### Impact on Society
-Most of the people in the society are very conscious about their health. But they fail to keep track of the amount of calorie of food they have consumed and the amount that they have utilised. Foodified is a solution to such problems. People can keep track of the amount of calorie they have consumed, calorie they have lost by doing workout, walking indoor and outdoors. Foodified also gives proper suggestion what to eat next by using advanced algorithms. This app will help the people to maintain a proper and healthy lifestyle. People can also share their experience among their friends, this would spread health awareness in the society.
+Most people in our society are very conscious about their health. But they fail to keep track of the number of calories they have consumed and the number that they have utilised. Foodified is a solution to such problems. People can keep track of the number of calories they have consumed, calories they have lost by working out, walking indoors and outdoors. Foodified also gives proper suggestions regarding what to eat next by using advanced algorithms. This app will help people to maintain a proper and healthy lifestyle. People can also share their experience with their friends. This would spread health awareness in the society.
 ### Install and contribute
 ```Open git bash on Windows or Terminal in Linux and enter the following: 
 $ git clone https://github.com/dsciitpatna/Foodified.git
